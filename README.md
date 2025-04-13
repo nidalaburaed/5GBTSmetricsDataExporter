@@ -2,6 +2,8 @@
 
 A script to poll and fetch Kubernetes based container for 5G-call related KPI data package and Export package to KPIReporter for test call results visualization
 
+![image](https://github.com/user-attachments/assets/7c1277a0-3c1b-4236-9546-5362b6f0c648)
+
 # How to run the code
 
 Compile the code using the following command:
